@@ -1,15 +1,33 @@
-.color-footer {
+.footer-divisor {
+    color: #FAE2E2;
+    border-top: 5px solid;
+}
+
+footer {
+    color: white;
     background-color: #F25252;
-}
-
-.color-hover {
-    background-color: #F6C270;
-}
-
-.color-footer-divisor {
-    background-color: #FAE2E2;
+    text-align: center;
 }
 
 /*.color.navbar {
     background-color: ;
 }*/
+
+#descripcion-sitio {
+    margin: 20px;
+    text-align: justify;
+}
+
+.card {
+    margin: 10px 00px;
+}
+
+.iconos {
+    color:white;
+    font-size: 32px;
+    margin: 5px;
+}
+
+.iconos:hover {
+    color: #F6C270;
+}
