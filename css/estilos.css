@@ -1,6 +1,7 @@
 .footer-divisor {
     color: #FAE2E2;
     border-top: 5px solid;
+    opacity: 1;
 }
 
 footer {
@@ -18,9 +19,6 @@ footer {
     text-align: justify;
 }
 
-.card {
-    margin: 10px 00px;
-}
 
 .iconos {
     color:white;
